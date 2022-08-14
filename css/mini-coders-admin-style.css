@@ -1,0 +1,6 @@
+.largefont, .largefont p{font-size:16px;}
+.mini-coders-notice-container{width:100%; padding:15px 0 15px 0;}
+.mini-coders-notice-img{float:left; text-align:left; width:13%;}
+.mini-coders-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.mini-coders-notice-heading{font-size:20px; font-weight:600;}
+.mini-coders-clear{clear:both;}
